@@ -83,10 +83,14 @@ NODE_ENV=development
 ```
 
 ## 🚀 Run Locally
+```terminal
 npm run build
+```
 
 ## 🚀 Start the App
+```terminal
 npm run start
+```
 
 
 
