@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "Brajesh Kumar",
   "type": "module",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "bcryptjs": "^3.0.0",
