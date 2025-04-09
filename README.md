@@ -24,11 +24,13 @@ A full-featured eCommerce website built with modern technologies. Users can brow
 **Frontend:**  
 - HTML, CSS, JavaScript  
 - React.js 
+- Tailwind CSS
 
 **Backend:**  
 - Node.js with Express  
 - MongoDB with Mongoose
 - Redis for refresh and access token management
+
 **Deployment:**  
 - Render (Cloud hosting)
 
