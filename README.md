@@ -13,6 +13,7 @@ A full-featured eCommerce website built with modern technologies. Users can brow
 - Product listing 
 - Featuring products
 - Shopping cart and order checkout
+- Recommendation for the products at cart 
 - Payment integration 
 - Coupon aplyment and management 
 - Admin dashboard to manage products and orders and analyse all the revenues
